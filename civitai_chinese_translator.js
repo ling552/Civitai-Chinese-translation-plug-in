@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Civitai中文翻译插件
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ling552/
 // @version      0.1.0
 // @description  将Civitai网站翻译为简体中文
 // @author       Ling
