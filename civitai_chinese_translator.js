@@ -6,6 +6,7 @@
 // @author       Ling
 // @match        https://civitai.com/*
 // @grant        none
+// @license      MIT
 // @run-at       document-start
 // @downloadURL  https://github.com/ling552/Civitai-Chinese-translation-plug-in/blob/main/civitai_chinese_translator.js
 // @updateURL    https://github.com/ling552/Civitai-Chinese-translation-plug-in/blob/main/civitai_chinese_translator.js
